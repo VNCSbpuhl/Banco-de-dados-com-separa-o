@@ -1,0 +1,8 @@
+.env
+target/
+.idea/
+*.iml
+.tools/
+.mysql-local/
+relatorio_render/
+*.tmp
