@@ -7,9 +7,9 @@ Identificação usada no campo `criado_por`: **Grupo 8**.
 
 ## Integrantes
 
-- Vinicius
-- Bruno Santos
-- Nathan Bizinoto
+- Vinicius Rodrigues Oliveira
+- Bruno José dos Santos
+- Nathan Bizinoto de Oliveira
 
 ## Desenvolvimento local
 
